@@ -50,15 +50,23 @@ params:
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     clientlogos:
-    - logo: systek
+    - logo: gitlab
       url: https://google.com
-    - logo: tribe
+    - logo: github
       url: https://stefma.github.io/hugo-fresh/
-    - logo: kromo
+    - logo: kubernetes
       url: https://github.com/StefMa/hugo-fresh
-    - logo: infinite
+    - logo: harbor
       url: https://hugo-fresh.vercel.app/
-    - logo: gutwork
+    - logo: argo
+      url: https://bulma.io/
+    - logo: kyverno
+      url: https://bulma.io/
+    - logo: cilium
+      url: https://bulma.io/
+    - logo: trivy
+      url: https://bulma.io/
+    - logo: keycloak
       url: https://bulma.io/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
@@ -142,10 +150,10 @@ params:
       icon: laptop-globe
     - title: Безопасность
       text: Обеспечим безопасность разработки на саммых ранних этапах. Быстрая разработка может быть безопасной. Проверено
-      icon: doc-sync
+      icon: mobile-feed
     - title: DevOps
       text: Внедрим DevOps практики, изменим парадигмы разработки
-      icon: mobile-feed
+      icon: doc-sync
   section3:
     title: Один партнер
     subtitle: Для всех задач
@@ -170,10 +178,10 @@ params:
   #     img: 3
   section5:
     title: Оставить заявку
-    subtitle: Оставить заявку иди задать вопрос 
+    subtitle: Оставить заявку или задать вопрос 
     buttonText: Отправить
-    # action: https://formspree.io/f/<form_id>
-    # method: POST
+    action: https://formspree.io/f/xzbnnoza
+    method: POST
   footer:
     # Logo (from static/images/logos/___)
     logo: fresh-white-alt.svg
