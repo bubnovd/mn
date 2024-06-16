@@ -42,38 +42,38 @@ params:
     # Hero subtitle (optional)
     subtitle: Уменьшим Time To Market, увеличим стабильность и безопасность
     # Button text
-    buttontext: Get started
+    buttontext: Оставить заявку
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "#section5"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/*.svg)
     # urls are optional
     clientlogos:
     - logo: gitlab
-      url: https://google.com
+      url: https://about.gitlab.com/
     - logo: github
-      url: https://stefma.github.io/hugo-fresh/
+      url: https://github.com/
     - logo: kubernetes
-      url: https://github.com/StefMa/hugo-fresh
+      url: https://kubernetes.io/
     - logo: harbor
-      url: https://hugo-fresh.vercel.app/
+      url: https://goharbor.io/
     - logo: argo
-      url: https://bulma.io/
+      url: https://argoproj.github.io/
     - logo: kyverno
-      url: https://bulma.io/
+      url: https://kyverno.io/
     - logo: cilium
-      url: https://bulma.io/
+      url: https://cilium.io/
     - logo: trivy
-      url: https://bulma.io/
+      url: https://www.aquasec.com/products/trivy/
     - logo: keycloak
-      url: https://bulma.io/
+      url: https://www.keycloak.org/
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Features
-    url: /
-  - title: Pricing
-    url: /
+  - title: Blog
+    url: https://bubnovd.net
+  #- title: Pricing
+  #  url: /
   # - title: Dropdown
     # sublinks:
     # - title: Dropdown item
@@ -137,7 +137,7 @@ params:
       buttonText: Подробнее
     - title: Cloud
       icon: plug-cloud
-      text: Интегарция с облаком
+      text: Интеграция с облаком
       url: /
       buttonText: Подробнее
   section2:
@@ -154,12 +154,12 @@ params:
     - title: DevOps
       text: Внедрим DevOps практики, изменим парадигмы разработки
       icon: doc-sync
-  section3:
-    title: Один партнер
-    subtitle: Для всех задач
-    #image: illustrations/mockups/app-mockup.png
-    buttonText: Оставить заявку
-    buttonLink: "#"
+#  section3:
+#    title: Один партнер
+#    subtitle: Для всех задач
+#    image: illustrations/mockups/app-mockup.png
+#    buttonText: Оставить заявку
+#    buttonLink: "#"
   # section4:
   #   title: Our Clients love us!
   #   subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
