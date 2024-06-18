@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Maintanance and Nuts</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Maintanance and Nuts</description>
+    <title>Services on Maintanance and Nuts</title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on Maintanance and Nuts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DevOps</title>
       <link>http://localhost:1313/services/devops/</link>
@@ -27,20 +27,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/services/cloud/</guid>
       <description>Миграция сервисов в облако и обратно&#xA;AWS Yandex Cloud </description>
-    </item>
-    <item>
-      <title>Почему мы</title>
-      <link>http://localhost:1313/company/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/company/</guid>
-      <description>My awesome blogpost My super sweet second blog post&#xA;§1 Lorem Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.</description>
-    </item>
-    <item>
-      <title>Этапы работы</title>
-      <link>http://localhost:1313/workflow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workflow/</guid>
-      <description> Выясняем задачи заказчика Проводим предпроектное обследование Составляем техническое задание и план работ Приступаем к работе При необходимости дополняем техническое задание и проводим дополнительные работы Отдаем сервис в эксплуатацию заказчику или обслуживаем сами </description>
     </item>
   </channel>
 </rss>
