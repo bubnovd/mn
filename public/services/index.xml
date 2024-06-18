@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Maintanance and Nuts</title>
-    <link>http://localhost:1313/services/</link>
+    <link>http://mn.bubnovd.net/services/</link>
     <description>Recent content in Services on Maintanance and Nuts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mn.bubnovd.net/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DevOps</title>
-      <link>http://localhost:1313/services/devops/</link>
+      <link>http://mn.bubnovd.net/services/devops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/devops/</guid>
+      <guid>http://mn.bubnovd.net/services/devops/</guid>
       <description>Внедряем процессы и инструменты для быстрой и надежной разработки и доставки приложений&#xA;Зачем нужны частые релизы В современном динамичном мире частота релизов прямо сказывается на прибыльности компании. Быстрые изменения в угоду трендам позволят удержать рынок и привлечь новых пользователей. Все мы помним бум софта для видеоконференций в пандемийный период и скорость добавления новых функций в них. Для измерения частоты и надежности выпуска релизы даже придуманы специальные метрики - DORA&#xA;Как этого достичь Для быстрой эффективной разработки прежде всего необходима командная работа.</description>
     </item>
     <item>
       <title>Kubernetes</title>
-      <link>http://localhost:1313/services/kubernetes/</link>
+      <link>http://mn.bubnovd.net/services/kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/kubernetes/</guid>
+      <guid>http://mn.bubnovd.net/services/kubernetes/</guid>
       <description>Kubernetes - основа современной технологичной компании. Так или иначе все процессы движутся вокруг него.&#xA;Мы занимаемся внедрением, поддержкой и защитой кластеров Kubernetes в разных конфигурациях. В облаках и on-prem. Поможем в интеграции с другими продуктами.&#xA;Смежные продукты:&#xA;argocd argoworkflow kyverno calico cilium VictoriaMetrics prometheus grafana kube-bench gitlab </description>
     </item>
     <item>
       <title>Облака</title>
-      <link>http://localhost:1313/services/cloud/</link>
+      <link>http://mn.bubnovd.net/services/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/cloud/</guid>
+      <guid>http://mn.bubnovd.net/services/cloud/</guid>
       <description>Миграция сервисов в облако и обратно&#xA;AWS Yandex Cloud </description>
     </item>
   </channel>

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>//localhost:1313/</link>
+    <link>//mn.bubnovd.net/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mn.bubnovd.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DevOps</title>
-      <link>http://localhost:1313/services/devops/</link>
+      <link>http://mn.bubnovd.net/services/devops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/devops/</guid>
+      <guid>http://mn.bubnovd.net/services/devops/</guid>
       <description>Внедряем процессы и инструменты для быстрой и надежной разработки и доставки приложений&#xA;Зачем нужны частые релизы В современном динамичном мире частота релизов прямо сказывается на прибыльности компании. Быстрые изменения в угоду трендам позволят удержать рынок и привлечь новых пользователей. Все мы помним бум софта для видеоконференций в пандемийный период и скорость добавления новых функций в них. Для измерения частоты и надежности выпуска релизы даже придуманы специальные метрики - DORA&#xA;Как этого достичь Для быстрой эффективной разработки прежде всего необходима командная работа.</description>
     </item>
     <item>
       <title>Kubernetes</title>
-      <link>http://localhost:1313/services/kubernetes/</link>
+      <link>http://mn.bubnovd.net/services/kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/kubernetes/</guid>
+      <guid>http://mn.bubnovd.net/services/kubernetes/</guid>
       <description>Kubernetes - основа современной технологичной компании. Так или иначе все процессы движутся вокруг него.&#xA;Мы занимаемся внедрением, поддержкой и защитой кластеров Kubernetes в разных конфигурациях. В облаках и on-prem. Поможем в интеграции с другими продуктами.&#xA;Смежные продукты:&#xA;argocd argoworkflow kyverno calico cilium VictoriaMetrics prometheus grafana kube-bench gitlab </description>
     </item>
     <item>
       <title>Облака</title>
-      <link>http://localhost:1313/services/cloud/</link>
+      <link>http://mn.bubnovd.net/services/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/cloud/</guid>
+      <guid>http://mn.bubnovd.net/services/cloud/</guid>
       <description>Миграция сервисов в облако и обратно&#xA;AWS Yandex Cloud </description>
     </item>
     <item>
       <title>Почему мы</title>
-      <link>http://localhost:1313/company/</link>
+      <link>http://mn.bubnovd.net/company/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/company/</guid>
+      <guid>http://mn.bubnovd.net/company/</guid>
       <description>My awesome blogpost My super sweet second blog post&#xA;§1 Lorem Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.</description>
     </item>
     <item>
       <title>Этапы работы</title>
-      <link>http://localhost:1313/workflow/</link>
+      <link>http://mn.bubnovd.net/workflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workflow/</guid>
+      <guid>http://mn.bubnovd.net/workflow/</guid>
       <description> Выясняем задачи заказчика Проводим предпроектное обследование Составляем техническое задание и план работ Приступаем к работе При необходимости дополняем техническое задание и проводим дополнительные работы Отдаем сервис в эксплуатацию заказчику или обслуживаем сами </description>
     </item>
   </channel>
