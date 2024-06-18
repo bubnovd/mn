@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/services/devops/</loc>
+    <loc>http://mn.bubnovd.net/services/devops/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/kubernetes/</loc>
+    <loc>http://mn.bubnovd.net/services/kubernetes/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://mn.bubnovd.net/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>http://mn.bubnovd.net/services/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/cloud/</loc>
+    <loc>http://mn.bubnovd.net/services/cloud/</loc>
   </url><url>
-    <loc>http://localhost:1313/company/</loc>
+    <loc>http://mn.bubnovd.net/company/</loc>
   </url><url>
-    <loc>http://localhost:1313/workflow/</loc>
+    <loc>http://mn.bubnovd.net/workflow/</loc>
   </url>
 </urlset>
