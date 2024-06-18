@@ -128,17 +128,17 @@ params:
     - title: Kubernetes
       icon: kubernetes
       text: Внедряем и поддерживаем
-      url: /
+      url: /services/kubernetes
       buttonText: Подробнее
-    - title: DevSecOps
+    - title: DevOps
       icon: laptop-cloud
       text: Скорость и безопасность
-      url: /
+      url: /services/devops
       buttonText: Подробнее
     - title: Cloud
       icon: plug-cloud
       text: Интеграция с облаком
-      url: /
+      url: /services/cloud
       buttonText: Подробнее
   section2:
     title: Займитесь важными для бизнеса задачами
@@ -160,22 +160,22 @@ params:
 #    image: illustrations/mockups/app-mockup.png
 #    buttonText: Оставить заявку
 #    buttonLink: "#"
-  # section4:
-  #   title: Our Clients love us!
-  #   subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
-  #   clients:
-  #   - name: Irma Walters
-  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-  #     job: Accountant
-  #     img: 1
-  #   - name: John Bradley
-  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-  #     job: Financial Analyst
-  #     img: 2
-  #   - name: Gary Blackman
-  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-  #     job: HR Manager
-  #     img: 3
+  section4:
+    title: Почему мы
+    subtitle: Многолетний опыт и десятки внедренных проектов
+    clients:
+    - name: Ускорение пайплайна
+      quote: Уменьшение времени работы пайплайна GitLab CI с 20 часов до 2. Оптимизирован запуск тестов, внедрено кэширование, оптимизирована работа Kubernetes раннеров, оптимизированы Docker образы
+      job: Gitlab, Kubernetes, minio, Docker
+      img: 1
+    - name: John Bradley
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Financial Analyst
+      img: 2
+    - name: Gary Blackman
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: HR Manager
+      img: 3
   section5:
     title: Оставить заявку
     subtitle: Оставить заявку или задать вопрос 
