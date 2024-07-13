@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/services/devops/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/kubernetes/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/cloud/</loc>
+  </url><url>
+    <loc>http://localhost:1313/company/</loc>
+  </url><url>
+    <loc>http://localhost:1313/workflow/</loc>
   </url>
 </urlset>
