@@ -23,11 +23,12 @@
 
 
 
-<meta property="og:url" content="http://localhost:1313/company/">
+<meta property="og:url" content="http://localhost:1313/portfolio/">
   <meta property="og:site_name" content="Maintanance and Nuts">
-  <meta property="og:title" content="Почему мы">
-  <meta property="og:description" content="My awesome blogpost My super sweet second blog post
-§1 Lorem Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.">
+  <meta property="og:title" content="Выполненные проекты">
+  <meta property="og:description" content="Ускорение работы GitLab пайплайна с 20 часов до 2 Оптимизация пайплайна: failfast, обмен артефактами, параллелизация сборок, выделение отдельных kubernetes раннеров для разных задач, сборка под разные архитектуры с помощью разных эмуляторов, внедрение кэша minio
+Миграция CI/CD с GitLab CI в Jenkins Функционала GitLab оказалось недостаточно для сборки и тестирования крупного проекта. Jenkins с его кастомизацией больше подходил для этого проекта. Конфигурация Jenkins с помощью JCASC, пайплайны на groovy
+Аутентификация kubernetes в Active Directory Внедрена OIDC аутентификация kubernetes.">
   <meta property="og:locale" content="en-us">
   <meta property="og:type" content="article">
 
@@ -154,24 +155,33 @@
   <div class="container">
     <div class="columns">
       <div class="column is-centered-tablet-portrait">
-        <h1 class="title section-title">Почему мы</h1>
-        <h5 class="subtitle is-5 is-muted">Многолетний опыт и десятки внедренных проектов</h5>
+        <h1 class="title section-title">Выполненные проекты</h1>
+        <h5 class="subtitle is-5 is-muted">Как мы работаем</h5>
         <div class="divider"></div>
       </div>
     </div>
 
     <div class="content">
-      <h2 class="title is-2">My awesome blogpost</h2>
-<p>My super sweet second blog post</p>
-<h3 class="title is-3">§1 Lorem</h3>
-<p>Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.</p>
-<br>
-<h3 class="title is-3">§2 Bacon</h3>
-<h5 class="subtitle is-5">§2.1 Bacon1</h5>
-<p>Buffalo cupim kielbasa spare ribs frankfurter. Ribeye pork burgdoggen tenderloin, tail strip steak bacon ham hock pork loin cupim. Bresaola biltong salami, cow ham hock doner pork chop bacon sausage short ribs. Picanha shank sausage turducken. Ham hock t-bone cupim, tri-tip biltong venison flank beef. Cupim bresaola kevin, ham hock beef hamburger tri-tip biltong sirloin filet mignon.</p>
-<br>
-<h5 class="subtitle is-5">§2.2 Bacon2</h5>
-<p>Beef jowl tail alcatra frankfurter bacon t-bone hamburger shankle. Ham hock ball tip spare ribs turkey fatback shank short loin buffalo meatball burgdoggen pork chop shankle. Porchetta buffalo pork belly chicken leberkas drumstick. Jerky chuck brisket spare ribs ribeye pork chop shankle beef ribs beef capicola. Boudin short ribs rump flank picanha. Brisket pork loin turducken, flank jerky pastrami pork chop spare ribs bresaola beef ribs. Cow fatback tenderloin pork loin pancetta.</p>
+      <h2 id="ускорение-работы-gitlab-пайплайна-с-20-часов-до-2">Ускорение работы GitLab пайплайна с 20 часов до 2</h2>
+<p>Оптимизация пайплайна: failfast, обмен артефактами, параллелизация сборок, выделение отдельных kubernetes раннеров для разных задач, сборка под разные архитектуры с помощью разных эмуляторов, внедрение кэша <code>minio</code></p>
+<h2 id="миграция-cicd-с-gitlab-ci-в-jenkins">Миграция CI/CD с GitLab CI в Jenkins</h2>
+<p>Функционала <code>GitLab</code> оказалось недостаточно для сборки и тестирования крупного проекта. <code>Jenkins</code> с его кастомизацией больше подходил для этого проекта. Конфигурация Jenkins с помощью <code>JCASC</code>, пайплайны на <code>groovy</code></p>
+<h2 id="аутентификация-kubernetes-в-active-directory">Аутентификация kubernetes в Active Directory</h2>
+<p>Внедрена OIDC аутентификация <code>kubernetes</code>. В качестве OIDC провайдера используется <code>keycloak</code>, генерация конфигов <code>kuberos</code></p>
+<h2 id="автоматизация-нагрузочных-тестов">Автоматизация нагрузочных тестов</h2>
+<p>Деплой инфраструктуры в Яндекс Облако, проведение тестов, сбор и публикация результатов, уничтожение инфраструктуры</p>
+<h2 id="деплой-инфраструктуры-в-яндекс-облако">Деплой инфраструктуры в Яндекс Облако</h2>
+<p>Автоматизация деплоя в <code>ArgoWorkflow</code>: деплой <code>kubernetes</code> кластера <code>Terraform</code>&lsquo;ом, интеграция с <code>Hashicorp Vault</code>, добавление кластера в <code>ArgoCD</code>, деплой инфраструктурных приложений с помощью ArgoCD: <code>cert-manager</code>, <code>prometheus</code>, <code>tekton</code>, деплой бизнес приложений</p>
+<h2 id="построение-cicd-пайплайна-на-стеке-argo">Построение CI/CD пайплайна на стеке Argo</h2>
+<p>Разработаны <code>Helm</code> чарты, по хуку из <code>GitHub</code> <code>ArgoWorkflow</code> запускает линтеры, сборк и тесты, обновляет манифесты для <code>ArgoCD</code></p>
+<h2 id="разработка-кастомных-prometheus-экспортеров">Разработка кастомных prometheus экспортеров</h2>
+<h2 id="внедрение-автоматизированной-системы-мониторинга">Внедрение автоматизированной системы мониторинга</h2>
+<p>Внедрение системы мониторинга инфраструктуры на базе <code>Prometheus</code>, <code>Grafana</code>, <code>Alertmanager</code>, <code>Alerta</code>. Настройка дашбордов и маршрутизации алертов.
+Для автоматического добавления устройств использовали service discovery <code>Hashicorp Consul</code>, физические устройства описаны в NetBox, настроена интеграция <code>NetBox</code> с <code>Consul</code> и <code>Prometheus</code></p>
+<h2 id="внедрение-подхода-infrtastructure-as-code">Внедрение подхода Infrtastructure as Code</h2>
+<p>Описание в коде &ldquo;боевых&rdquo; нагруженных сервисов компании, настроенных в ручном режиме: кластер postgreSQL, бэкенд на Java, фронтенд.
+Позволило получить точное описание сервисов и настроить тестовые стенды.
+Инструменты: <code>Ansible</code>, <code>Molecule</code>, <code>GitLab</code></p>
 
     </div>
   </div>
