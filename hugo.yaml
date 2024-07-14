@@ -154,28 +154,28 @@ params:
     - title: DevOps
       text: Внедрим DevOps практики, изменим парадигмы разработки
       icon: doc-sync
-#  section3:
-#    title: Один партнер
-#    subtitle: Для всех задач
-#    image: illustrations/mockups/app-mockup.png
-#    buttonText: Оставить заявку
-#    buttonLink: "#"
-  section4:
-    title: Почему мы
-    subtitle: Многолетний опыт и десятки внедренных проектов
-    clients:
-    - name: Ускорение пайплайна
-      quote: Уменьшение времени работы пайплайна GitLab CI с 20 часов до 2. Оптимизирован запуск тестов, внедрено кэширование, оптимизирована работа Kubernetes раннеров, оптимизированы Docker образы
-      job: Gitlab, Kubernetes, minio, Docker
-      img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
-      img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
-      img: 3
+  section3:
+    title: Один партнер
+    subtitle: Для всех задач
+    image: illustrations/mockups/tech.png
+    buttonText: Реализованные проекты
+    buttonLink: "/portfolio"
+  # section4:
+  #   title: Почему мы
+  #   subtitle: Многолетний опыт и десятки внедренных проектов
+  #   clients:
+  #   - name: Ускорение пайплайна
+  #     quote: Уменьшение времени работы пайплайна GitLab CI с 20 часов до 2. Оптимизирован запуск тестов, внедрено кэширование, оптимизирована работа Kubernetes раннеров, оптимизированы Docker образы
+  #     job: Gitlab, Kubernetes, minio, Docker
+  #     img: 1
+  #   - name: John Bradley
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Financial Analyst
+  #     img: 2
+  #   - name: Gary Blackman
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: HR Manager
+  #     img: 3
   section5:
     title: Оставить заявку
     subtitle: Оставить заявку или задать вопрос 
