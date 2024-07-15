@@ -1,7 +1,7 @@
 ---
 title: Этапы работы
 subtitle: Как мы работаем
-sidebar: true # or false to display the sidebar
+sidebar: false # or false to display the sidebar
 sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true # or false to display the footer
 ---

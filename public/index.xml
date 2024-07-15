@@ -30,17 +30,17 @@
     </item>
     <item>
       <title>Kubernetes</title>
-      <link>http://localhost:1313/services/kubernetes-copy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/kubernetes-copy/</guid>
-      <description>Kubernetes - основа современной технологичной компании. Так или иначе все процессы движутся вокруг него.&#xA;Мы занимаемся внедрением, поддержкой и защитой кластеров Kubernetes в разных конфигурациях. В облаках и on-prem. Поможем в интеграции с другими продуктами.&#xA;Смежные продукты:&#xA;argocd argoworkflow kyverno calico cilium VictoriaMetrics prometheus grafana kube-bench gitlab </description>
-    </item>
-    <item>
-      <title>Kubernetes</title>
       <link>http://localhost:1313/services/kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/services/kubernetes/</guid>
       <description>Kubernetes - это открытая платформа для автоматизации развертывания, масштабирования и управления контейнеризированными приложениями. Другими словами, Kubernetes - это мощный инструмент для управления вашей ИТ-инфраструктурой и приложениями.&#xA;Вот несколько ключевых преимуществ внедрения Kubernetes:&#xA;Масштабируемость и гибкость: Kubernetes позволяет легко масштабировать приложения, добавляя или удаляя вычислительные ресурсы по мере необходимости. Это дает возможность быстро реагировать на изменения спроса и обеспечивать бесперебойную работу сервисов.&#xA;Высокая доступность: Kubernetes обеспечивает автоматическое восстановление контейнеров в случае сбоев, что гарантирует высокую доступность приложений.</description>
+    </item>
+    <item>
+      <title>Kubernetescopy</title>
+      <link>http://localhost:1313/services/kubernetes-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/kubernetes-copy/</guid>
+      <description>Kubernetes - основа современной технологичной компании. Так или иначе все процессы движутся вокруг него.&#xA;Мы занимаемся внедрением, поддержкой и защитой кластеров Kubernetes в разных конфигурациях. В облаках и on-prem. Поможем в интеграции с другими продуктами.&#xA;Смежные продукты:&#xA;argocd argoworkflow kyverno calico cilium VictoriaMetrics prometheus grafana kube-bench gitlab </description>
     </item>
     <item>
       <title>Выполненные проекты</title>
